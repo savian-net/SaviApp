@@ -99,6 +99,7 @@ SaviApp consists of the following components:
 |**Website(s)**|[Savian](http://www.savian.net)||
 
 
-*This software was not built by SAS&#xAE; Institute and uses no SAS&#xAE; components. It has no affiliation to SAS&#xAE; Institute.*
+*This software was not built by SAS&#xAE; Institute and uses no SAS&#xAE; components. It has no affiliation to SAS&#xAE; Institute.*  
+
 *SAS&#xAE; is a registered trademark of SAS Institute*
 
