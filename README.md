@@ -76,7 +76,7 @@ SaviApp consists of the following components:
 * Theming is not supported at this time but will be later.
 * The application has been tested on Windows PCs and not smaller devices.
 * Cells that contain any formatting, such as %, are displayed in a raw format when exported. 
-  There is not general fix for this issue at this time.
+  There is not a general fix for this issue at this time.
 
 ---
 
