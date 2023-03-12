@@ -98,8 +98,6 @@ SaviApp consists of the following components:
 |**Email**|alan.churchill@savian.net||
 |**Website(s)**|[Savian](http://www.savian.net)||
 
-<span style="color:navy;font-weight:700;font-size:8px">
-*This software was not built by SAS&#xAE; Institute and uses no SAS&#xAE; components. It has no affiliation to SAS&#xAE; Institute.*  
-*SAS&#xAE; is a registered trademark of SAS Institute*
-  </span>
+<sub>*This software was not built by SAS&#xAE; Institute and uses no SAS&#xAE; components. It has no affiliation to SAS&#xAE; Institute.*</sub>
+<sub>*SAS&#xAE; is a registered trademark of SAS Institute*</sub>
 
