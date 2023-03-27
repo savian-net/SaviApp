@@ -97,6 +97,7 @@ SaviApp consists of the following components:
 * Graphs
 * Cap lifts
 * More export options beyond Excel (ex. PDF, HTML, CSV)
+* Command-line support
 
 ---
 ## Author  
