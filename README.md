@@ -1,3 +1,11 @@
+## Requirements
+
+[.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)  
+*** Note: The Desktop Runtime may work by itself but it hasn't been tested***
+* Samples are included that can be used for testing
+* The appsettings.json file is critical since it holds all parameters
+
+
 ## Overview
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
