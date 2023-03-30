@@ -58,7 +58,7 @@ SaviApp consists of the following components:
 
 ---
 ##### Help Screen
-[<img src="/Screenshots/Help.png" width="500" style='border:1px solid #000000;'/>](/Screenshots/Home.png?raw=true "Help Screen")
+[<img src="/Screenshots/Help.png" width="500" style='border:1px solid #000000;'/>](/Screenshots/Help.png?raw=true "Help Screen")
 
 ---
 ##### Settings
